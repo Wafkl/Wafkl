@@ -5,6 +5,7 @@ Bioinformatics graduate digging into Python development. I enjoy exploring inter
   <img src="Images/concrete_bee.jpg" width="450">
 </p>
 My code varies from applying numerical methods and multi-dimensional data analysis to modelling stochastical processes. Looking for a place where I could grow my skills by solving practical problems. 
+
 ---
 
 ## 🛠️ Tech & Tools
