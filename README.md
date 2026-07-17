@@ -2,7 +2,7 @@
 
 Bioinformatics graduate digging into Python development. I enjoy exploring intersections of disciplines and documenting urban wildlife.
 <p align="center">
-  <img src="Images/concrete_bee.jpg" width="450">
+  <img src="Images/concrete_bee.jpg" width="350">
 </p>
 My code varies from applying numerical methods and multi-dimensional data analysis to modelling stochastical processes. Looking for a place where I could grow my skills by solving practical problems. 
 
