@@ -34,12 +34,12 @@ My code varies from applying numerical methods and multi-dimensional data analys
 
 ---
 
-## 🚀 Selected Projects
+## 🔎 Selected Projects
 
 ---
 
 
-### 🌻 Flower Classifier
+### 🌷 [Flower Classifier](https://github.com/Wafkl/flower_classifier)
 
 Machine learning pipeline for recognizing flower species from images.
 
@@ -52,7 +52,7 @@ Machine learning pipeline for recognizing flower species from images.
 
 
 ---
-### 🔌 Anita — Backend Application
+### 🦠 Anita — Backend Application
 
 Backend service combining REST API, database integration and CLI communication.
 
@@ -68,7 +68,7 @@ Backend service combining REST API, database integration and CLI communication.
 
 ---
 
-### 📊 PCA Analysis Toolkit
+### 📊  [PCA Analysis Toolkit](https://github.com/Wafkl/PCA_dirty_drugs)
 
 CLI tool for Principal Component Analysis on multivariate datasets.
 
@@ -82,7 +82,7 @@ CLI tool for Principal Component Analysis on multivariate datasets.
 
 ---
 
-### 🎲 Stochastic Process Simulations
+### 🚶 [Stochastic Process Simulations](https://github.com/Wafkl/stochastical_notebooks)
 
 Collection of Monte Carlo simulations exploring probabilistic models.
 
@@ -93,6 +93,6 @@ Collection of Monte Carlo simulations exploring probabilistic models.
 
 **Stack:** Python · NumPy · Matplotlib · Jupyter Notebook · SciPy
 
-## 📫 Contact
+## :envelope: Contact
 
 · [splendid.well@proton.me]
