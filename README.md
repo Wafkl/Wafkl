@@ -82,7 +82,7 @@ CLI tool for Principal Component Analysis on multivariate datasets.
 
 ---
 
-### 🚶 [Stochastic Process Simulations](https://github.com/Wafkl/stochastical_notebooks)
+### 🚶 [Stochastic Process Simulations](https://github.com/Wafkl/stochastic_notebooks)
 
 Collection of Monte Carlo simulations exploring probabilistic models.
 
